@@ -4,7 +4,7 @@
 
 ## what i'm exploring
 
-🤖 agentic AI to develop cool things  
+🛠️ agentic AI to develop cool things  
 💡 what you can build when you combine data + code  
 🟩 making green squares a personality trait
 
