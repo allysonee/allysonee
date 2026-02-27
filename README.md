@@ -1,6 +1,6 @@
 # hi, i'm allyson 👋
 
-> figuring out what all the AI fuss is about one experiment at a time
+> figuring out what all the AI fuss is about
 
 ## what i'm exploring
 
